@@ -4,17 +4,16 @@ Esta Query consolida indicadores de atendimento em tempo real, fornecendo uma vi
 
 Informações que são trazidas quando o código é executado:
 
-1 - Hora de início do atendimento (momento da conexão e vínculo com o discador)
-2 - Segmento a qual aquele atendimento pertence (campanha discador ou 0800)
-3 - Telefone 
-4 - Classificação do telefone (se é o telefone tem marcação de Excelente ou ainda como Indefinido)
-5 - Id do contrato acionado
-6 - Valor referente ao contrato atendido 
-7 - Operador responsável pelo o atendimento
-8 - Tabulação lançada pelo operador (finalização)
-9 - Origem desligamento (se o desconect se deu pelo operador ou pelo cliente)
-10 - Tempo falado na ligação (em minutos e segundos)
-11 - Hora a qual o atendimento foi executado
+* **Hora de início do atendimento:** (momento da conexão e vínculo com o discador)
+* **Segmento:** a qual aquele atendimento pertence (campanha discador ou 0800)
+* **Telefone:** Classificação do telefone (se é o telefone tem marcação de Excelente ou ainda como Indefinido)
+* **Id do contrato:** Registro interno e único de cada cliente
+* **Valor:** referente ao contrato atendido 
+* **Operador:** responsável pelo o atendimento
+* **Tabulação:** lançada pelo operador (finalização)
+* **Origem desligamento:** (se o desconect se deu pelo operador ou pelo cliente)
+* **Tempo falado:** na ligação (em minutos e segundos)
+* **Hora:** Horário no qual o atendimento foi executado
 
 ```
 
