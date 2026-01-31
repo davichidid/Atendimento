@@ -1,6 +1,6 @@
 # Monitoramento de Atendimento em Real Time
 
-Esta Query consolida indicadores de atendimento em tempo real, fornecendo uma visão detalhada de cada interação. Essa visão foi desenvolvida para dar suporte ao time de Control Desk e Planejamento Estratégico, permitindo a identificação imediata de desvios operacionais, instabilidades de telefonia e a validação de manobras estratégicas no discador para mensurar a eficácia da estratégia.
+Esta Query consolida indicadores de atendimento em tempo real, fornecendo uma visão detalhada de cada interação. Essa visão foi desenvolvida para dar suporte ao time de Control Desk e Planejamento Estratégico, permitindo a identificação imediata de desvios operacionais, instabilidades de telefonia e a validação de alterações estratégicas  para mensurar a eficácia da estratégia.
 
 Informações que são trazidas quando o código é executado:
 
